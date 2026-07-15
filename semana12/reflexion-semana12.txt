@@ -1,0 +1,11 @@
+Durante este curso aprendí que la tecnología puede ayudar mucho a fortalecer la 
+participación ciudadana cuando se utiliza de forma responsable. También entendí la 
+importancia de organizar la información mediante bases de datos y proteger los datos 
+personales de los usuarios. Aprendí cómo funcionan las API, los servidores y algunas 
+herramientas de automatización que facilitan el trabajo. Además, comprendí que una plataforma 
+no solo debe funcionar bien, sino que también debe ser segura y confiable. Me pareció 
+interesante conocer cómo una comunidad puede registrar causas, recibir apoyos y hacer 
+seguimiento a sus procesos. Todo esto demuestra que la tecnología puede aportar soluciones 
+reales cuando se desarrolla pensando en las necesidades de las personas. Considero que los 
+conocimientos adquiridos serán útiles para seguir aprendiendo sobre desarrollo de software y 
+crear proyectos con impacto social.

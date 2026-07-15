@@ -1,0 +1,9 @@
+Evento:
+Se registra una nueva causa en la plataforma.
+
+Mensaje:
+"Nueva causa registrada. Ingresa a la plataforma para revisarla y conocer más información."
+
+Información que no debe enviarse:
+No se deben enviar números de identificación, teléfonos, direcciones, contraseñas, 
+comentarios privados ni otros datos personales de los usuarios.
